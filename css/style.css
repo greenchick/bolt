@@ -208,6 +208,7 @@ body {
 
 .skillsSection-grid {
   margin-top: 40px;
+  margin-bottom: 75px;
 }
 
 .skillsSection-grid > li {
@@ -226,6 +227,7 @@ body {
 
 .skillsSection-grid > li:last-child {
   margin-right: 0;
+  margin-bottom: 0;
 }
 
 .inner-snslinks {
@@ -248,6 +250,7 @@ body {
 .snslinks-listLinks {
   display: block;
 }
+
 .fa-footer-color {
   color: #74cfae;
   font-size: 45px;
@@ -347,6 +350,7 @@ body {
 
   .skillsSection-grid {
     text-align: center;
+    margin-bottom: 0;
   }
 
   .skillsSection-grid > li:first-child {
