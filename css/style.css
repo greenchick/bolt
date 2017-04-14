@@ -144,10 +144,11 @@ body {
 
 .worksSection-pictures {
   text-align: center;
+  margin-bottom: 90px;
 }
 
 .worksSection-pictures-grid {
-  margin: 40px 0 90px;
+  margin-top: 40px;
   font-size: 0;
 }
 
@@ -308,9 +309,12 @@ body {
     padding: 0 20px;
   }
 
+  .worksSection-pictures {
+    margin-bottom: 80px;
+  }
+
   .worksSection-pictures-grid {
     margin-top: 30px;
-    margin-bottom: 80px;
   }
 
   .worksSection-pictures-grid > li {
@@ -402,6 +406,10 @@ body {
 
   .themeSection-header {
     font-size: 80px;
+  }
+
+  .worksSection-pictures {
+    margin-bottom: 0;
   }
 
   .worksSection-pictures-grid {
